@@ -1,0 +1,6 @@
+gradio==5.49.1
+spaces
+numpy
+pandas
+scikit-learn==1.6.1
+xgboost
